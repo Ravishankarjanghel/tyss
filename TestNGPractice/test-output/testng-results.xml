@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[
+Welcome to Maharashtra.
+]]>
+    </line>
+    <line>
+      <![CDATA[
+Welcome to our District.]]>
+    </line>
+    <line>
+      <![CDATA[I am from mumbai.]]>
+    </line>
+    <line>
+      <![CDATA[Come again to our District.
+]]>
+    </line>
+    <line>
+      <![CDATA[
+Welcome to our District.]]>
+    </line>
+    <line>
+      <![CDATA[I am from nagpur.]]>
+    </line>
+    <line>
+      <![CDATA[Come again to our District.
+]]>
+    </line>
+    <line>
+      <![CDATA[
+Welcome to our District.]]>
+    </line>
+    <line>
+      <![CDATA[I am from nasik.]]>
+    </line>
+    <line>
+      <![CDATA[Come again to our District.
+]]>
+    </line>
+    <line>
+      <![CDATA[
+Welcome to our District.]]>
+    </line>
+    <line>
+      <![CDATA[I am from pune.]]>
+    </line>
+    <line>
+      <![CDATA[Come again to our District.
+]]>
+    </line>
+    <line>
+      <![CDATA[
+Welcome to our District.]]>
+    </line>
+    <line>
+      <![CDATA[I am from vidarbh.]]>
+    </line>
+    <line>
+      <![CDATA[Come again to our District.
+]]>
+    </line>
+    <line>
+      <![CDATA[
+Come again to Maharashtra.
+]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-03-15T09:00:22 IST" name="Default suite" finished-at="2023-03-15T09:00:22 IST" duration-ms="87">
+    <groups>
+    </groups>
+    <test started-at="2023-03-15T09:00:22 IST" name="Default test" finished-at="2023-03-15T09:00:22 IST" duration-ms="87">
+      <class name="test.Maharashtra">
+        <test-method is-config="true" signature="welcomeCG()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="welcomeCG" finished-at="2023-03-15T09:00:22 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[
+Welcome to Maharashtra.
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- welcomeCG -->
+        <test-method is-config="true" signature="welcomeToDist()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="welcomeToDist" finished-at="2023-03-15T09:00:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[
+Welcome to our District.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- welcomeToDist -->
+        <test-method signature="mumbai()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="mumbai" finished-at="2023-03-15T09:00:22 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[I am from mumbai.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mumbai -->
+        <test-method is-config="true" signature="byeDist()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="byeDist" finished-at="2023-03-15T09:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Come again to our District.
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- byeDist -->
+        <test-method is-config="true" signature="welcomeToDist()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="welcomeToDist" finished-at="2023-03-15T09:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[
+Welcome to our District.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- welcomeToDist -->
+        <test-method signature="nagpur()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="nagpur" finished-at="2023-03-15T09:00:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[I am from nagpur.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- nagpur -->
+        <test-method is-config="true" signature="welcomeToDist()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="welcomeToDist" finished-at="2023-03-15T09:00:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[
+Welcome to our District.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- welcomeToDist -->
+        <test-method is-config="true" signature="byeDist()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="byeDist" finished-at="2023-03-15T09:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Come again to our District.
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- byeDist -->
+        <test-method signature="nasik()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="nasik" finished-at="2023-03-15T09:00:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[I am from nasik.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- nasik -->
+        <test-method is-config="true" signature="byeDist()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="byeDist" finished-at="2023-03-15T09:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Come again to our District.
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- byeDist -->
+        <test-method is-config="true" signature="welcomeToDist()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="welcomeToDist" finished-at="2023-03-15T09:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[
+Welcome to our District.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- welcomeToDist -->
+        <test-method signature="pune()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="pune" finished-at="2023-03-15T09:00:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[I am from pune.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- pune -->
+        <test-method is-config="true" signature="byeDist()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="byeDist" finished-at="2023-03-15T09:00:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Come again to our District.
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- byeDist -->
+        <test-method signature="vidarbh()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="vidarbh" finished-at="2023-03-15T09:00:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[I am from vidarbh.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- vidarbh -->
+        <test-method is-config="true" signature="welcomeToDist()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="welcomeToDist" finished-at="2023-03-15T09:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[
+Welcome to our District.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- welcomeToDist -->
+        <test-method is-config="true" signature="byeDist()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="byeDist" finished-at="2023-03-15T09:00:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Come again to our District.
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- byeDist -->
+        <test-method is-config="true" signature="byeCG()[pri:0, instance:test.Maharashtra@5223e5ee]" started-at="2023-03-15T09:00:22 IST" name="byeCG" finished-at="2023-03-15T09:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[
+Come again to Maharashtra.
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- byeCG -->
+      </class> <!-- test.Maharashtra -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
